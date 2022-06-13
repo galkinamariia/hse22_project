@@ -89,47 +89,160 @@
 > 
 > ![image](https://user-images.githubusercontent.com/59726719/173426837-bd07e788-5143-45bf-817d-1ded762d1bce.png)
 >
-> **Полученные таблицы по 10-ти отобранным кластерам с самым большим средним ZH-Score:**
+> **Полученные таблицы по 8-ми отобранным кластерам с самым большим средним ZH-Score:**
+>
 > Кластер №1:
 > 
+> ![image](https://user-images.githubusercontent.com/59726719/173433729-6e1746f2-d7a3-470c-a4cd-0c8ebe8ac6c6.png)
+>
 > Кластер №2:
+> 
+> ![image](https://user-images.githubusercontent.com/59726719/173433814-35c07694-9026-4268-86c8-54a3d6a84827.png)
 >
 > Кластер №3:
 > 
+> ![image](https://user-images.githubusercontent.com/59726719/173433866-c4161228-42a5-42f0-9907-df75ca3e97fe.png)
+> 
 > Кластер №4:
+> 
+> ![image](https://user-images.githubusercontent.com/59726719/173434113-5c264d98-cab6-4107-ac5b-0e256d4c4970.png)
 > 
 > Кластер №5:
 > 
+> ![image](https://user-images.githubusercontent.com/59726719/173434163-0b240449-3f19-4351-9aa4-c0a25f3e0651.png)
+>
 > Кластер №6:
 > 
+> ![image](https://user-images.githubusercontent.com/59726719/173434213-f44b245e-6f93-4b7c-afb2-7f0abb2ba314.png)
+>
 > Кластер №7:
 > 
+> ![image](https://user-images.githubusercontent.com/59726719/173434267-eacb657d-eadd-44b5-8df7-577fdbe0c403.png)
+>
 > Кластер №8:
 > 
-> Кластер №9:
-> 
-> Кластер №10:
+> ![image](https://user-images.githubusercontent.com/59726719/173434293-c977bdc1-1926-49c7-9ce9-2343fd17895a.png)
 > 
 > **Функции:**
 >| № кластера | Функция №1:                  | Функция №2: | Функция №3: | Функция №4: | Функция №5:: |
 >|---|----------------------------------|---------------------------------|---------------------------|--------------------|--------------|
->| 1 |                |                             |                  |                |     |
->| 2 |        |                             |                  |                |      |
->| 3 |               |                           |                   |                |     |
->| 4 |              |                             |                   |                |    |
->| 5 |                   |                            |                   |               |      |
->| 6 |               |                            |                   |               |     |
->| 7 |         |                            |                  |              |     |
->| 8 |                  |                          |                  |                |      |
->| 9 |          |                           |                    |               |   |
->| 10 |                     |                         |                   |          |     |
+>| 1 |RNA recognition motif (RRM)-containing protein |peptidylprolyl isomerase |RNA recognition motif (RRM)-containing protein,putative|Peptidyl-prolyl cis-trans isomerase E|peptidyl-prolyl cis-trans isomerase E|
+>| 2 |nucleolar protein Nop56, putative |NOP56, nucleolar protein 56|nucleolar protein Nop56, putative|Nucleolar protein 56|uncharacterized protein|
+>| 3 |conserved hypothetical protein  |GAP40|GDP-fucose transporter 1|uncharacterized protein|metabolite drug protein|
+>| 4 |rpn2_yeast 26S proteasome regulatory subunit rpn2, putative|Calcineurin-like phosphoesterase|rpn2_yeast 26S proteasome regulatory subunit rpn2, putative|26S proteasome non-ATPase regulatory subunit 1|serine threonine phosphatase|
+>| 5 |tRNA binding domain containing protein|translation initiation factor eIF-4A|tRNA binding domain containing protein, putative|putative tyrosine-tRNA ligase|tRNA binding domain-containing protein|
+>| 6 |deoxyuridine 5'-triphosphate nucleotidohydrolase, putative |dUTP pyrophosphatase |deoxyuridine 5'-triphosphate nucleotidohydrolase, putative|Deoxyuridine 5'-triphosphate nucleotidohydrolase|deoxyuridine 5 -triphosphate nucleotidohydrolase|
+>| 7 |40S ribosomal protein S19, putative |small subunit ribosomal protein S19e |40S ribosomal protein S19, putative|40S ribosomal protein S19-A|40S ribosomal protein|
+>| 8 |conserved hypothetical protein |Ribosomal RNA small subunit methyltransferase F|hypothetical protein, conserved|Ribosomal RNA small subunit methyltransferase F|S-adenosyl-L-methionine-dependent methyltransferase superfamily protein|
+>
+>
+> **Распределение Z-ДНК относительно генов в кластере:**
+>
+> Кластер №1:
+> ![image](https://user-images.githubusercontent.com/59726719/173436457-6825f40b-64e8-49f2-a166-54e05179911c.png)
+>
+> Кластер №2:
+> ![image](https://user-images.githubusercontent.com/59726719/173436511-a8710dc5-a2b8-4ae6-bee9-65b62157227c.png)
+>
+> Кластер №3:
+> ![image](https://user-images.githubusercontent.com/59726719/173436548-94a52348-7083-4990-af19-2e2268e066fb.png)
+> 
+> Кластер №4:
+> ![image](https://user-images.githubusercontent.com/59726719/173436629-24ac1ff7-b494-462d-bf02-e1c90d2c3168.png)
+> 
+> Кластер №5:
+> ![image](https://user-images.githubusercontent.com/59726719/173436669-06a93d8d-3848-488c-a1f8-03120c7bf65a.png)
+> 
+> Кластер №6:
+> ![image](https://user-images.githubusercontent.com/59726719/173436755-851d5451-7054-4df6-8c93-cb2d74e40266.png)
+>
+> Кластер №7:
+> ![image](https://user-images.githubusercontent.com/59726719/173436791-2fca60bd-f972-41bf-9733-cf8df309b5af.png)
+> 
+> Кластер №8:
+> ![image](https://user-images.githubusercontent.com/59726719/173436826-383341ec-2425-4e52-9393-d1003269037e.png)
+>
+
+## **Множественное белковое выравнивание с помощью muscle**
+<details>
+  <summary>Кластер # 1</summary>
+    
+  ```  
+  
+  ```
+</details>
+
+<details>
+  <summary>Кластер # 2</summary>
+    
+  ```  
+  
+  ```
+</details>
+
+<details>
+  <summary>Кластер # 3</summary>
+    
+  ```  
+  
+  ```
+</details>
+
+<details>
+  <summary>Кластер # 4</summary>
+    
+  ```  
+  
+  ```
+</details>
+
+<details>
+  <summary>Кластер # 5</summary>
+    
+  ```  
+  
+  ```
+</details>
+
+<details>
+  <summary>Кластер # 6</summary>
+    
+  ```  
+  
+  ```
+</details>
+
+<details>
+  <summary>Кластер # 7</summary>
+    
+  ```  
+  
+  ```
+</details>
+
+<details>
+  <summary>Кластер # 8</summary>
+    
+  ```  
+  
+  ```
+</details>
 
 
-
-
-
-
-
-
-
-
+## **Визуализация расположение Z-ДНК для каждого выбранного кластера**
+>
+> ![image](https://user-images.githubusercontent.com/59726719/173436945-10053caa-b842-4a0f-9cb4-caf4e3578edc.png)
+>
+> ![image](https://user-images.githubusercontent.com/59726719/173437000-532ca3ba-1b46-4cae-a7ba-79e7ce5d8675.png)
+>
+> ![image](https://user-images.githubusercontent.com/59726719/173437068-a7eaad74-19d3-4166-beb4-215bce4eba67.png)
+>
+> ![image](https://user-images.githubusercontent.com/59726719/173437125-9a4203de-c9ac-46f0-85f2-8e534a2b4364.png)
+>
+> ![image](https://user-images.githubusercontent.com/59726719/173437191-b340a804-0d70-420f-92d8-1280963e653a.png)
+>
+> ![image](https://user-images.githubusercontent.com/59726719/173437241-e7387252-26a9-4bcf-9851-0ad38b21c3fc.png)
+>
+> ![image](https://user-images.githubusercontent.com/59726719/173437474-a09d8c37-e2d0-40c7-805b-cf4223844175.png)
+>
+> ![image](https://user-images.githubusercontent.com/59726719/173437533-0c42283e-e0d7-4613-829f-4c8f8e39b2b2.png)
