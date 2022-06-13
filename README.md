@@ -139,27 +139,35 @@
 > **Распределение Z-ДНК относительно генов в кластере:**
 >
 > Кластер №1:
+> 
 > ![image](https://user-images.githubusercontent.com/59726719/173436457-6825f40b-64e8-49f2-a166-54e05179911c.png)
 >
 > Кластер №2:
+> 
 > ![image](https://user-images.githubusercontent.com/59726719/173436511-a8710dc5-a2b8-4ae6-bee9-65b62157227c.png)
 >
 > Кластер №3:
+> 
 > ![image](https://user-images.githubusercontent.com/59726719/173436548-94a52348-7083-4990-af19-2e2268e066fb.png)
 > 
 > Кластер №4:
+> 
 > ![image](https://user-images.githubusercontent.com/59726719/173436629-24ac1ff7-b494-462d-bf02-e1c90d2c3168.png)
 > 
 > Кластер №5:
+> 
 > ![image](https://user-images.githubusercontent.com/59726719/173436669-06a93d8d-3848-488c-a1f8-03120c7bf65a.png)
 > 
 > Кластер №6:
+> 
 > ![image](https://user-images.githubusercontent.com/59726719/173436755-851d5451-7054-4df6-8c93-cb2d74e40266.png)
 >
 > Кластер №7:
+> 
 > ![image](https://user-images.githubusercontent.com/59726719/173436791-2fca60bd-f972-41bf-9733-cf8df309b5af.png)
 > 
 > Кластер №8:
+> 
 > ![image](https://user-images.githubusercontent.com/59726719/173436826-383341ec-2425-4e52-9393-d1003269037e.png)
 >
 
